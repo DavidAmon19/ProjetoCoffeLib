@@ -46,7 +46,7 @@ section {
 
 .conteudo-menu a {
     text-decoration: none;
-    color: #fff;
+    color: var(--cor-do-cachorro);
     transition: 0.5s;
 }
 
